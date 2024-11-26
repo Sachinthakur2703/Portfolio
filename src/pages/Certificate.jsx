@@ -10,10 +10,10 @@ const Certificate = () => {
             <h1 style={{color:"red"}}>Project:</h1>
             <p style={{color:"white",fontSize:"23px",fontStyle:"italic"}}>
 <a href='https://shop-nest-green.vercel.app/login' target='_blank' style={{textDecoration:"none",color:"blue"}}><FontAwesomeIcon icon={faUniversity} /> visit here...</a>
-<h5 className='mt-3'>●	Project Name: E-commerce web-application</h5>
+<div className='mt-3'>Project Name: <span style={{color:"red"}}><b>SHOPNEST</b></span></div>
 
-<h5>●	Technologies Used: MongoDB, Express, React, Node.</h5>
-<h5>●	Description: The application features robust authorization and authentication mechanisms implemented through Passport.js, ensuring secure user access. Additionally, it includes an integrated email functionality powered by Nodemailer, allowing customers to receive their order receipts via email.</h5>
+<div>Technologies Used: MongoDB, Express, React, Node.</div>
+<div>	Description: The application features robust authorization and authentication mechanisms implemented through Passport.js, ensuring secure user access. Additionally, it includes an integrated email functionality powered by Nodemailer, allowing customers to receive their order receipts via email.</div>
 </p>
             
            

@@ -13,7 +13,7 @@ const Skill = () => {
         { name: 'React Js', value: 63 },
         { name: 'Node Js', value: 63 },
         { name: 'MongoDB', value: 75 },
-        { name: 'MySql', value: 80 },
+        { name: 'Express', value: 80 },
       ];
       
       return (
