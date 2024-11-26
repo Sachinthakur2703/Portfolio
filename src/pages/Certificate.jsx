@@ -20,14 +20,14 @@ const Certificate = () => {
         </div>
         <div className='mt-5'>
             <h1 style={{color:"red"}}>Certificate:</h1>
-            <p style={{color:"grey",fontSize:"23px"}}>JavaScript completion certificate from Scaler Topics.</p>
-            <p style={{color:"grey",fontSize:"23px"}}>React completion certificate from Scaler Topics.</p>
+            <p style={{color:"white",fontSize:"23px",fontStyle:"italic"}}>JavaScript completion certificate from Scaler Topics.</p>
+            <p style={{color:"white",fontSize:"23px",fontStyle:"italic"}}>React completion certificate from Scaler Topics.</p>
            
         </div>
 
          <div>
             <h1 style={{color:"red"}}>Experience:</h1>
-            <p style={{color:"grey",fontSize:"23px",fontFamily:"sans-serif"}}>During my 6-month industrial training at Excellence Technology in Mohali, I gained hands-on experience in MERN (MongoDB, Express.js, React, and Node.js) stack development. The training provided me with in-depth exposure to building full-stack applications, where I learned both front-end and back-end technologies. On the front-end, I mastered React, creating dynamic and responsive user interfaces, while on the back-end, I worked with Node.js and Express.js to develop RESTful APIs. I also learned how to interact with databases using MongoDB, ensuring smooth data management and storage.</p>
+            <p style={{color:"white",fontSize:"23px",fontFamily:"sans-serif",fontStyle:"italic"}}>During my 6-month industrial training at Excellence Technology in Mohali, I gained hands-on experience in MERN (MongoDB, Express.js, React, and Node.js) stack development. The training provided me with in-depth exposure to building full-stack applications, where I learned both front-end and back-end technologies. On the front-end, I mastered React, creating dynamic and responsive user interfaces, while on the back-end, I worked with Node.js and Express.js to develop RESTful APIs. I also learned how to interact with databases using MongoDB, ensuring smooth data management and storage.</p>
             
            
         </div>
