@@ -8,7 +8,7 @@ const Certificate = () => {
         <div>
         <div>
             <h1 style={{color:"red"}}>Project:</h1>
-            <p style={{color:"grey",fontSize:"23px",fontStyle:"italic"}}>
+            <p style={{color:"white",fontSize:"23px",fontStyle:"italic"}}>
 <a href='https://shop-nest-green.vercel.app/login' target='_blank' style={{textDecoration:"none",color:"blue"}}><FontAwesomeIcon icon={faUniversity} /> visit here...</a>
 <h5 className='mt-3'>●	Project Name: E-commerce web-application</h5>
 
