@@ -47,7 +47,7 @@ const NavComponent = () => {
                 <li ><NavLink className="light "to="/">HOME</NavLink></li>
                 <li ><NavLink className="light " to="/Skill" >SKILL</NavLink></li>
                 <li ><NavLink className="light " to="/About">ABOUT</NavLink></li>
-                <li ><NavLink className="light " to="/certificates" >PROJECT</NavLink></li>
+                <li ><NavLink className="light " to="/certificate" >PROJECT</NavLink></li>
               
               </ul>
             )}
