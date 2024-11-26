@@ -1,0 +1,48 @@
+
+.detail {
+ 
+  
+    border: 2px dotted rgb(200, 108, 108);
+    
+    background: linear-gradient(to right, rgb(15, 0, 0), rgb(108, 33, 43));
+}
+.line{
+    border-left:2px dotted rgb(213, 106, 106)
+}
+@media screen and (max-width:768px) {
+    .detail{
+        background: linear-gradient(to bottom, rgb(12, 1, 1), rgb(108, 37, 48));
+    }
+    .line{
+        border-top:2px dotted rgb(180, 95, 95);
+        border-left:0px;
+    }
+}
+
+.detailcontent {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+        
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+}
+
+th, td {
+    border: 1px dotted #f6efef;
+    padding: 6px;
+    text-align: center;
+    word-break: break-all;
+    font-Family:"cursive";
+    font-Size:18px;
+    font-Weight:"lighter"
+}
+th{
+    font-weight: 600;
+    background-color: rgb(133, 127, 127);
+    color:rgb(16, 16, 15)
+}

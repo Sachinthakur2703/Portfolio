@@ -1,0 +1,23 @@
+footer{
+    background-color: rgb(10, 10, 10);
+    box-shadow:  4px 0px 8px rgb(250, 10, 10);
+    margin-top:8%
+}
+
+.ref ul{
+   
+    gap:0px;
+    padding: 0px;
+    
+    
+   
+}
+.ref ul li{
+    padding-top:4px;
+    
+}
+.ref ul li a{
+    text-decoration:none;
+    color:red;
+    font-weight: 100;
+}
