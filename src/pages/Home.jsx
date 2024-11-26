@@ -31,7 +31,7 @@ const Home = () => {
            
         </div>
         <div className='col-lg-4 col-md-6 col-12 mt-4 mb-4 profile  ' data-aos="flip-left" data-aos-duration="2000">
-         <img src={me} className="rounded-circle " alt="img" />
+         <img src={me} className="rounded-circle  " alt="img" />
          </div>
       </div>
     </div>

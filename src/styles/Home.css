@@ -36,7 +36,12 @@ body{
 
 
     @media only screen and ( max-width:768px) {
-       
+        .profile img{
+            height: 230px;
+            width: 230px;
+            border: 10px solid red;
+            
+        }
         .home{
             margin-top:8%;
             border: 1px dotted red;
